@@ -5,7 +5,7 @@
 🌱 Atualmente estou aprendendo e desenvolvendo meus primeiros projetos.
 💻 Tecnologias: Python • HTML • CSS
 🚀 Me preparando para o mercado de trabalho...
-📫 Contatos: gbrizacoreimberg@icloud.com
+📫 Contato: gbrizacoreimberg@icloud.com
 
 <div style="display: inline_block"><br>
 <img align="center" alt="Python" height="40" width="40"
