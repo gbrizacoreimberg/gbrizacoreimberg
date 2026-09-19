@@ -8,7 +8,7 @@ Atualmente, estou construindo minha base técnica e explorando diferentes áreas
 
 ---
 
-## Sobre mim
+## Sobre mim:
 
 - 🎓 Desenvolvimento de Sistemas — ETEC
 - 💻 Foco atual em Python
@@ -19,7 +19,7 @@ Atualmente, estou construindo minha base técnica e explorando diferentes áreas
 
 ---
 
-## Tecnologias
+## Tecnologias que estou estudando:
 
 ![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
 ![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -29,7 +29,7 @@ Atualmente, estou construindo minha base técnica e explorando diferentes áreas
 
 ---
 
-## Atualmente
+## Atualmente:
 
 ```text
 Aprendendo       →  Python
