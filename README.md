@@ -1,19 +1,38 @@
-## Olá! Eu sou a Giovana 👋
+# Olá mundo! Eu sou a Giovana Reimberg 
 
-🎓 Cursando Desenvolvimento de Sistemas - ETEC
+### Desenvolvedora em formação | Desenvolvimento de Sistemas
 
-- 🌱 Atualmente estou aprendendo e desenvolvendo meus primeiros projetos.
-- 💻 Tecnologias: Python • HTML • CSS
-- 🚀 Me preparando para o mercado de trabalho...
-- 📫 Contato: gbrizacoreimberg@icloud.com
+Estudante de Desenvolvimento de Sistemas na ETEC, interessada em programação, desenvolvimento web e criação de projetos que transformem ideias em soluções funcionais.
 
-<div style="display: inline_block"><br>
-<img align="center" alt="Python" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-<img align="center" alt="HTML" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="40" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-</div>
+Atualmente, estou construindo minha base técnica e explorando diferentes áreas do desenvolvimento para descobrir onde quero me especializar.
 
-✨ Em constante aprendizado.
+---
+
+## Sobre mim
+
+- 🎓 Desenvolvimento de Sistemas — ETEC
+- 💻 Foco atual em Python
+- 🌐 HTML & CSS
+- 🐍 Python
+- 🔧 Git & GitHub
+- 📚 Aprendizado contínuo através de projetos práticos
+
+---
+
+## Tecnologias
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF)
+
+---
+
+## Atualmente
+
+```text
+Aprendendo       →  Python
+Explorando       →  Desenvolvimento Web
+Praticando       →  Lógica de Programação
+Construindo      →  Projetos pessoais
