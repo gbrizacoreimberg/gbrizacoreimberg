@@ -8,7 +8,7 @@ Atualmente, estou construindo minha base técnica e explorando diferentes áreas
 
 ---
 
-## Sobre mim:
+## Sobre mim
 
 - 🎓 Desenvolvimento de Sistemas — ETEC
 - 💻 Foco atual em Python
@@ -29,7 +29,7 @@ Atualmente, estou construindo minha base técnica e explorando diferentes áreas
 
 ---
 
-## Atualmente:
+## Atualmente
 
 ```text
 Aprendendo       →  Python
