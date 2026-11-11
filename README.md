@@ -4,7 +4,7 @@
 
 Estudante de Desenvolvimento de Sistemas na ETEC, interessada em programação, desenvolvimento web e criação de projetos que transformem ideias em soluções funcionais.
 
-Atualmente, estou construindo minha base técnica e explorando diferentes áreas do desenvolvimento para descobrir onde quero me especializar.
+Atualmente, estou construindo minha base e explorando diferentes áreas do desenvolvimento para descobrir onde quero me especializar.
 
 ---
 
