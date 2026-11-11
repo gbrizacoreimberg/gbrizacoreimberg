@@ -11,7 +11,7 @@ Atualmente, estou construindo minha base técnica e explorando diferentes áreas
 ## Sobre mim
 
 - 🎓 Desenvolvimento de Sistemas — ETEC
-- 💻 Foco atual em Python
+- 💻 Foco atual em:
 - 🌐 HTML & CSS
 - 🐍 Python
 - 🔧 Git & GitHub
